@@ -2,5 +2,5 @@
 NAME: Xuanru Guo  
 NUIST NUMBER: 202283890028  
 WATERFORD NUMBER: W20109677  
-TUTOR: Michael McMahon
+TUTOR: Michael McMahon  
 COURSE: Project Semester3
